@@ -27,6 +27,6 @@ This project covers fundamental aspects of Python programming, including key con
 
 ## Future Plans
 
-The project will continue to evolve with a focus on advanced topics, additional libraries, and practical applications. Contributions and feedback are welcome!
+The project will continue to evolve with a focus on advanced topics, additional libraries, and practical applications.feedback are welcome!
 
-Feel free to explore the codebase and provide suggestions for improvement. Happy coding!
+
